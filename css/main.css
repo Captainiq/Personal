@@ -340,26 +340,26 @@ nav
 	padding: 30px 20px;
 	width: 100%;
 }
-.large1
+.large-text
 {
 	background-color: #f2ac32;
 	color: #fff;
 	justify-content: center;
 
 }
-.fa-ice-cream,
-.fa-utensils
+.fa-award,
+.fa-graduation-cap
 {
 	width: 100%;
 	font-size: 50px;
 	margin-bottom: 10px;
 }
-.large2
+.large-img1
 {
 	background-image: url('../img/ice.jpg');
 	background-size: cover;
 }
-#large-img2
+.large-img2
 {
 	background-image: url('../img/french.jpg');
 	background-size: cover;
@@ -380,7 +380,7 @@ nav
 	background-color: #fff;
 }
 
-.fa-pizza-slice
+.fa-award
 {
 	color: #f2ac32;
 	font-size: 50px;
@@ -401,13 +401,30 @@ nav
 	border-bottom: 2px solid #f2ac32;
 }
 
-.square2, .square3
+.square-RTR
 {
 	background-image: url('../img/bur.jpg');
 	background-size: cover;
 	background-position: center;
 }
-
+.square-RBL
+{
+	background-image: url('../img/bur1.jpg');
+	background-size: cover;
+	background-position: center;
+}
+.square-LTL
+{
+	background-image: url('../img/bur2.jpg');
+	background-size: cover;
+	background-position: center;
+}
+.square-LBR
+{
+	background-image: url('../img/bur3.jpg');
+	background-size: cover;
+	background-position: center;
+}
 /**********************Fourth Section*****************/
 
 .forth-section
